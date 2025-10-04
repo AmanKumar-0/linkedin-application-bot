@@ -9,7 +9,7 @@
 # # If you left above field empty enter your Linkedin password and username below
 # # Linkedin credits
 # email = "amanhuriya2@gmail.com"
-# password = "Testings@321"
+# password = ""
 
 # # These settings are for running Linkedin job apply bot
 # LinkedinBotProPasswrod = ""
@@ -92,7 +92,7 @@ phone_number = "7982473942"
 # General bot settings
 browser = ["chrome"]  # or ["firefox"]
 email = "amanhuriya2@gmail.com"
-password = "Testings@321"
+password = ""
 
 # Optional! run browser in headless mode, no browser screen will be shown it will work in background.
 headless = False
